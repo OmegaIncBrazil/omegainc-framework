@@ -1,0 +1,10 @@
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Release\OmegaInc.Framework.dll.config
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Release\OmegaInc.Framework.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Release\OmegaInc.Framework.pdb
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Release\EntityFramework.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Release\EntityFramework.SqlServer.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Release\EntityFramework.xml
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Release\EntityFramework.SqlServer.xml
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\obj\Release\OmegaInc.Framework.Entity.csproj.CoreCompileInputs.cache
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\obj\Release\OmegaInc.Framework.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\obj\Release\OmegaInc.Framework.pdb

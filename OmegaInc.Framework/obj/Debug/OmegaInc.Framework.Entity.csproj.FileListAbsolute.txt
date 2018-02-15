@@ -1,0 +1,11 @@
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Debug\OmegaInc.Framework.dll.config
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Debug\OmegaInc.Framework.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Debug\OmegaInc.Framework.pdb
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Debug\EntityFramework.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Debug\EntityFramework.xml
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\obj\Debug\OmegaInc.Framework.Entity.csprojResolveAssemblyReference.cache
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\obj\Debug\OmegaInc.Framework.Entity.csproj.CoreCompileInputs.cache
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\obj\Debug\OmegaInc.Framework.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\obj\Debug\OmegaInc.Framework.pdb

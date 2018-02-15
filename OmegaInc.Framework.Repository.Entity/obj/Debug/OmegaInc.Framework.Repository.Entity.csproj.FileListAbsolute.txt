@@ -1,0 +1,13 @@
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\OmegaInc.Framework.Repository.Entity.dll.config
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\OmegaInc.Framework.Repository.Entity.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\OmegaInc.Framework.Repository.Entity.pdb
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\EntityFramework.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\OmegaInc.Framework.Repository.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\OmegaInc.Framework.Repository.pdb
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\EntityFramework.xml
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\obj\Debug\OmegaInc.Framework.Repository.Entity.csprojResolveAssemblyReference.cache
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\obj\Debug\OmegaInc.Framework.Repository.Entity.csproj.CoreCompileInputs.cache
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\obj\Debug\OmegaInc.Framework.Repository.Entity.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework\OmegaInc.Framework.Repository.Entity\obj\Debug\OmegaInc.Framework.Repository.Entity.pdb

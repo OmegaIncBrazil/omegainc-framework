@@ -1,0 +1,5 @@
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework.Repository\bin\Release\OmegaInc.Framework.Repository.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework.Repository\bin\Release\OmegaInc.Framework.Repository.pdb
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework.Repository\obj\Release\OmegaInc.Framework.Repository.csproj.CoreCompileInputs.cache
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework.Repository\obj\Release\OmegaInc.Framework.Repository.dll
+D:\Mega\Repositorios\omegainc-framework\OmegaInc.Framework.Repository\obj\Release\OmegaInc.Framework.Repository.pdb
